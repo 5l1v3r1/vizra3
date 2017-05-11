@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Colinux" createEmptyFolders="true" promptOnLocalOverwrite="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Colinux">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/vizra3/htdocs" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
